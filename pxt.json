@@ -6,7 +6,7 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.7",
-        "pxt-microbit": "ithub.com:Microsoft/pxt-microbit"
+        "pxt-microbit": "github.com:Microsoft/pxt-microbit"
     },
     "files": [
         "README.md",

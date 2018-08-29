@@ -11,5 +11,5 @@ MIT
 * for PXT/microbit
 
 ```package
-reromicro=github:ReRoKit/pxt-reromicro
+reromicro=github:tonywk88/pxt-reromicro
 ```

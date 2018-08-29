@@ -5,8 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.6.7"
-        "bluetooth":"github:microsoft/pxt-bluetooth-midi.git"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.7",
+        "bluetooth": "github:microsoft/pxt-bluetooth-midi.git"
     },
     "files": [
         "README.md",
